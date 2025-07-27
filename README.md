@@ -6,3 +6,4 @@ Passionate about Data Science and AI/ML applications, but continually expanding 
 
 - 📧 [Email](mailto:seanl26@uw.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohyliu)
+- 📸 [Photography (For Fun)](https://www.instagram.com/liuserpx/)
