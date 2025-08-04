@@ -15,6 +15,8 @@ Continually learning and expanding my skillset to develop into a versatile full-
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <br clear="left"/>
 
+---
+
 ### 👥 Let's Connect
 - 📧 [Email](mailto:seanl26@uw.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohyliu)
