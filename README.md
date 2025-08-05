@@ -1,10 +1,9 @@
-# Hi, I'm Sean Liu 👋
+# 👋 Sean Liu
 
-**`University of Washington`**  **`CS + Informatics`**  **`Junior`**  
+**`University of Washington Seattle`**  **`CS + Informatics`**  **`Junior`**  
 
-<b>Computer and information science undergraduate at the University of Washington in Seattle</b>
-
-Continually learning and expanding my skillset to develop into a versatile full-stack developer. Interested in a bit of everything!
+* Continually expanding my skillset to become a versatile full-stack developer
+* Interested in and willing to delve into a bit of everything!
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
