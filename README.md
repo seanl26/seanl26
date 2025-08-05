@@ -5,6 +5,7 @@
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and ready to delve into a bit of everything!
 
+<br clear="left"/>
 ---
 
 ### 🧰 Languages & Tools
@@ -16,6 +17,7 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<br clear="left"/>
 
 ---
 
