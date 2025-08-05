@@ -6,6 +6,7 @@
 * Interested in and ready to delve into a bit of everything!
 
 <br clear="left"/>
+
 ---
 
 ### 🧰 Languages & Tools
