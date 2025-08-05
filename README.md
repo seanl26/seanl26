@@ -1,4 +1,6 @@
-# 👋 Sean Liu
+<p style="font-size:32px; font-weight:bold; margin-bottom:0;">👋 <strong>Sean Liu</strong></p>
+
+<hr style="height:1px; background-color:#e4e4e4; border:none;"/>
 
 **`University of Washington Seattle`** &nbsp; **`CS + Informatics`** &nbsp; **`Junior`**  
 
