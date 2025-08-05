@@ -5,7 +5,7 @@
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and ready to delve into a bit of everything!
 
-### Languages & Tools
+## Languages & Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -17,7 +17,7 @@
 
 <br clear="left"/>
 
-### Connect With Me!
+## Connect With Me!
 - 📧 [Email](mailto:seanl26@uw.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohyliu)
 - 📸 [Photography (For Fun)](https://www.instagram.com/liuserpx/)
