@@ -1,4 +1,4 @@
-<p style="font-size:96px; font-weight:bold; margin-bottom:0;">👋 <strong>Sean Liu</strong></p>
+<h1 style="font-size:42px; font-weight:bold; margin-bottom:0;">👋 Sean Liu</h1>
 
 <hr style="height:1px; background-color:#e4e4e4; border:none;"/>
 
