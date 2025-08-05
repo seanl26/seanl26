@@ -5,8 +5,6 @@
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and ready to delve into a bit of everything!
 
-<br clear="left"/>
-
 ### 🧰 Languages & Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
