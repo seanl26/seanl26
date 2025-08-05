@@ -1,11 +1,11 @@
 # 👋 Sean Liu
 
-**`University of Washington Seattle`**  **`CS + Informatics`**  **`Junior`**  
+**`University of Washington Seattle`** &nbsp; **`CS + Informatics`** &nbsp; **`Junior`**  
 
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and willing to delve into a bit of everything!
 
-### 🧰 Languages and Tools
+**Languages and Tools**
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
