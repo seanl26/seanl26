@@ -1,8 +1,6 @@
-# Hi! I'm Sean Liu
+# Hi, I'm Sean Liu 👋
 
-**`University of Washington`**  
-**`CS and Informatics`**  
-**`Junior`**  
+**`University of Washington`**  **`CS and Informatics`**  **`Junior`**  
 
 Continually learning and expanding my skillset to develop into a versatile full-stack developer. Interested in a bit of everything.
 
