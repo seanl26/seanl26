@@ -17,7 +17,7 @@
 
 <br clear="left"/>
 
-### Let's Connect
+### Connect With Me!
 - 📧 [Email](mailto:seanl26@uw.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohyliu)
 - 📸 [Photography (For Fun)](https://www.instagram.com/liuserpx/)
