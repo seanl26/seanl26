@@ -1,13 +1,11 @@
 <h1 style="font-size:42px; font-weight:bold; margin-bottom:0;">👋 Sean Liu</h1>
 
-<hr style="height:1px; background-color:#e4e4e4; border:none;"/>
-
 **`University of Washington Seattle`** &nbsp; **`CS + Informatics`** &nbsp; **`Junior`**  
 
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and ready to delve into a bit of everything!
 
-<hr style="height:1px; background-color:#e4e4e4; border:none;"/>
+<br>
 
 ### 🧰 Languages & Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -20,7 +18,7 @@
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <br clear="left"/>
 
-<hr style="height:1px; background-color:#e4e4e4; border:none;"/>
+<br>
 
 ### 👥 Let's Connect
 - 📧 [Email](mailto:seanl26@uw.edu)
