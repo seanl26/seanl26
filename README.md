@@ -5,7 +5,7 @@
 * Continually expanding my skillset to become a versatile full-stack developer
 * Interested in and ready to delve into a bit of everything!
 
-<br>
+<br clear="left"/>
 
 ### 🧰 Languages & Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -16,9 +16,8 @@
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<br clear="left"/>
 
-<br>
+<br clear="left"/>
 
 ### 👥 Let's Connect
 - 📧 [Email](mailto:seanl26@uw.edu)
