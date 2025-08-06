@@ -1,6 +1,6 @@
 <h1 style="font-size:42px; font-weight:bold; margin-bottom:0;">👋 Sean Liu</h1>
 
-**`University of Washington Seattle`** &nbsp; **`CS + Informatics`** &nbsp; **`Junior`**  
+**`University of Washington Seattle`** &nbsp; **`Informatics`** &nbsp; **`Junior`**  
 
 * Continually expanding my skillset to develop into a versatile full-stack developer
 * Interested in a bit of everything!
